@@ -2,8 +2,7 @@
 ##### Note:
 Inside this repository I not added weights file so you need to download it from <a href = "https://pjreddie.com/media/files/yolov3.weights">Link</a> and paste it in Yolov3-coco folder and then follow below steps.<br><Br>
 #### Steps for use.
-1- Clone the repository.<Br><Br>
-  <code>https://github.com/RizwanMunawar/Spark-Foundation-Internship-Tasks.git</code><br><Br>
+1- Clone the Repositary
 2- open Anaconda prompt.<Br><Br>
 3- Move to clone folder.<br><Br>
   <code>
